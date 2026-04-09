@@ -1,2 +1,3 @@
 No, Name, ID, favouriteGame, Date
 1, Hoh Siew Yan, 12345 , Alan Wake 2, 09/04/2026
+1, Shiloh Kiu, 12345, Nonogram, 09/04/2026
